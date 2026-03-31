@@ -231,7 +231,7 @@ GitHub
 <p>A personal portfolio website showcasing my projects, skills, and achievements with a clean and responsive design.</p>
 <p><strong>Tech:</strong> HTML | CSS | JS</p>
 
-<a href="https://github.com/yourusername/resume-analyzer" target="_blank">
+<a href="https://github.com/amartya568/Portfolio_Project" target="_blank">
 GitHub
 </a>
 </div>
